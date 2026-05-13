@@ -18,7 +18,7 @@ A full-stack health and fitness web application built with the MERN stack (Mongo
 |--------------|-------------|
 | Deepak       | 2210991479  |
 | Gunnidhi     | 2210991592  | 
-| Anurag Kumar | 221099      |
+| Anurag Kumar | 2210991320  |
 
 ## Mentors
 
@@ -94,12 +94,6 @@ JWT_SECRET=your_secret_key_change_this
 PORT=5000
 ```
 
-Seed the food database:
-
-```bash
-npm run seed
-```
-
 Start the server:
 
 ```bash
@@ -155,6 +149,8 @@ Go to `http://localhost:3000` to use the application.
 | PORT       | Server port (default: 5000)        |
 
 ---
+
+## Current Status - Waiting
 
 &copy; 2026 Deepak. All rights reserved.  
 This project "CaloryInsight" is submitted for copyright registration.  
