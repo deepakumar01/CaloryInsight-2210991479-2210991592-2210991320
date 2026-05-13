@@ -12,6 +12,21 @@ A full-stack health and fitness web application built with the MERN stack (Mongo
 - **Profile Management** — Update your personal details (age, weight, height, gender).
 - **Responsive Design** — Works on desktop, tablet, and mobile devices.
 
+## Team and Contributors
+
+| Name         | Roll Number |
+|--------------|-------------|
+| Deepak       | 2210991479  |
+| Gunnidhi     | 2210991592  | 
+| Anurag Kumar | 221099      |
+
+## Mentors
+
+| Name             | Email                        |
+|------------------|------------------------------|
+| Dr. Rajat Takkar | rajat.takkar@chitkara.edu.in |
+| Isha Kansal      | isha.kansal@chitkatra.edu.in | 
+
 ## Tech Stack
 
 | Layer     | Technology                          |
