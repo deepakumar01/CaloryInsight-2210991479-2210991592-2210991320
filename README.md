@@ -13,7 +13,7 @@ A full-stack health and fitness web application built with the MERN stack (Mongo
 - **Profile Management** — Update your personal details (age, weight, height, gender).
 - **Responsive Design** — Works on desktop, tablet, and mobile devices.
 
-## Tpye - Copyright
+## Type - Copyright
 ## Current Status - Submitted
 
 ## Team and Contributors
