@@ -2,6 +2,7 @@
 
 A full-stack health and fitness web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Track your calorie burns, calculate BMI, and discover nutrition facts for everyday foods.
 
+
 ## Features
 
 - **User Authentication** — Register and login with JWT-based authentication. Passwords are hashed with bcrypt.
@@ -11,6 +12,9 @@ A full-stack health and fitness web application built with the MERN stack (Mongo
 - **Dashboard** — View your calculation history, recent activity, and health tips.
 - **Profile Management** — Update your personal details (age, weight, height, gender).
 - **Responsive Design** — Works on desktop, tablet, and mobile devices.
+
+## Tpye - Copyright
+## Current Status - Submitted
 
 ## Team and Contributors
 
@@ -149,8 +153,6 @@ Go to `http://localhost:3000` to use the application.
 | PORT       | Server port (default: 5000)        |
 
 ---
-
-## Current Status - Waiting
 
 &copy; 2026 Deepak. All rights reserved.  
 This project "CaloryInsight" is submitted for copyright registration.  
