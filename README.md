@@ -104,7 +104,7 @@ Start the server:
 npm start
 ```
 
-The API will be running at `http://localhost:5000`.
+The API will be running at `http://localhost:5000`
 
 ### 3. Setup the frontend
 
