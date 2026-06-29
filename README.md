@@ -43,7 +43,6 @@ A full-stack health and fitness web application built with the MERN stack (Mongo
 | Tooling   | Vite, PostCSS, Autoprefixer         |
 
 ## Folder Structure
-
 ```
 CaloryInsight/
 ├── frontend/                 # React frontend
